@@ -21,6 +21,7 @@ I love physics, mathematics and programming.
 <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/C.svg" alt="C" title="C" height="24px" hspace="5px" /></a>
 <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/cplusplus.svg" alt="C++" title="C++" height="24px" hspace="5px" /></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/gnubash.svg" alt="Bash" title="Bash" height="24px" hspace="5px" /></a>
+<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/java.svg" alt="Java" title="Java" height="24px" hspace="5px" /></a>
 <a href="https://tensorflow.org"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/tensorflow.svg" alt="Tensorflow" title="Tensorflow" height="24px" hspace="5px" /></a>
 <a href="https://opencv.org"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/opencv.svg" alt="OpenCV" title="OpenCV" height="24px" hspace="5px" /></a>
 <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/aharbii/aharbii/main/assets/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="24px" hspace="5px" /></a>
