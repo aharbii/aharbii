@@ -8,7 +8,7 @@
 
 <br>
 
-- 👨‍🎓 I'm Software Engineer with B.Sc. in Communication and Electronics Engineering.
+- 👨‍🎓 I'm a Software Engineer with B.Sc. in Communication and Electronics Engineering.
 I love physics, mathematics and programming.
 - 👨‍💻 I am totally interested in artificial intelligence, computer vision, image processing, digital signal processing, embedded systems, automotive industry, autonomous robotics, and self-driving cars.
 - 🚀 I actively learning new technologies, solving challenges and discovering algorithms.
