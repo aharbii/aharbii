@@ -3,7 +3,7 @@
 <div>
   <a href="http://www.linkedin.com/in/aharbii"><img src="assets/linkedin.svg" alt="Linkedin Ahmed Harbi" title="cguzman" height="24px" hspace="5px" /></a>
   <a href="http://hackerrank.com/aharbii"><img src="assets/hackerrank.svg" alt="HackerRank Ahmed Harbi" title="HackerRank" height="24px" hspace="5px" /></a>
-  <a href="http://leetcode.com/aharbii/"><img src="assets/leetcode.svg" alt="LeetCode Ahmed Harbi" title="LeetCode" height="24px" hspace="5px" /></a>
+  <a href="http://leetcode.com/aharbii/"><img src="assets/leetcode.png" alt="LeetCode Ahmed Harbi" title="LeetCode" height="24px" hspace="5px" /></a>
 </div>
 
 <br>
