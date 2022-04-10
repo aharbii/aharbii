@@ -8,6 +8,10 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aharbii&label=Profile%20views&color=0e75b6&style=flat" alt="aharbii" /> </p>
+<p align="left">
+</p>
+
 - 👨‍🎓 I'm a Software Engineer with B.Sc. in Communication and Electronics Engineering.
 I love physics, mathematics and programming.
 - 👨‍💻 I am totally interested in artificial intelligence, computer vision, image processing, digital signal processing, embedded systems, automotive industry, autonomous robotics, and self-driving cars.
