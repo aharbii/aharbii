@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Harbi</h1>
+<h1 align="center">Hi 👋🏼, I'm Ahmed Harbi</h1>
 <h3 align="center">I'm a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aharbii&label=Profile%20views&color=0e75b6&style=flat" alt="aharbii" /> </p>
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aharbiii" target="blank"><img src="https://img.shields.io/twitter/follow/aharbiii?logo=twitter&style=for-the-badge" alt="aharbiii" /></a> </p>
 
-- 👨‍🎓 I'm a Software Engineer **with B.Sc. in Communication and Electronics Engineering. I love physics, mathematics and programming.**
+- 👨🏻‍🎓 I'm a Software Engineer **with B.Sc. in Communication and Electronics Engineering. I love physics, mathematics and programming.**
 
 - 🌱 Nowadays I am learning **embedded system concepts, drivers and firmware development, real-time operating systems and their dependecies.**
 
-- 👨‍💻 I am totally interested in **artificial intelligence, computer vision, image processing, digital signal processing, embedded systems, automotive industry, autonomous robotics, and self-driving cars.**
+- 👨🏻‍💻 I am totally interested in **artificial intelligence, computer vision, image processing, digital signal processing, embedded systems, automotive industry, autonomous robotics, and self-driving cars.**
 
 - 🚀 I actively learning **new technologies, solving challenges and discovering algorithms.**
 
