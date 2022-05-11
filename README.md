@@ -23,13 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aharbiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aharbiii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aharbii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aharbii" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15375780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15375780" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmedharbi197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedharbi197" height="30" width="40" /></a>
-<a href="https://fb.com/aharrbii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aharrbii" height="30" width="40" /></a>
-<a href="https://instagram.com/aharbiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aharbiiii" height="30" width="40" /></a>
-<a href="https://www.behance.net/aharbii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aharbii" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aharbii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aharbii" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aharbii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aharbii" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aharbii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aharbii" height="30" width="40" /></a>
