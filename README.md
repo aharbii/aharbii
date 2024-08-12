@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aharbii" alt="aharbii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aharbiii" target="blank"><img src="https://img.shields.io/twitter/follow/aharbiii?logo=twitter&style=for-the-badge" alt="aharbiii" /></a> </p>
-
 - 👨🏻‍🎓 I'm a Software Engineer **with B.Sc. in Communication and Electronics Engineering. I love physics, mathematics and programming.**
 
 - 🌱 Nowadays I am learning **embedded system concepts, drivers and firmware development, real-time operating systems and their dependecies.**
